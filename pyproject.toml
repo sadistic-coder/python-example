@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "todo"
 version = "0.1.0"
-description = ""
+description = "python example project for GSM student"
 authors = ["Las-Wonho <haho013039@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^2.7"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.6"
